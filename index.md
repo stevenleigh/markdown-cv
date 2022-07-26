@@ -5,9 +5,9 @@ title: Steven Leigh's CV
 # Steven Leigh
 Tech Lead, Automotive Software
 
-<div>
+
 stevenrossleigh@gmail.com | +49 176 305 00773
-</div>
+
 
 
 ## Skills

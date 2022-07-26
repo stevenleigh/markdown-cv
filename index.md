@@ -5,9 +5,8 @@ title: Steven Leigh's CV
 # Steven Leigh
 Tech Lead, Automotive Software
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div>
+stevenrossleigh@gmail.com | +49 176 305 00773
 </div>
 
 

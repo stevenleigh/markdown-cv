@@ -1,61 +1,54 @@
 ---
 layout: cv
-title: Steven Leigh's CV
+title: Steven Leigh
 ---
 # Steven Leigh
-Tech Lead, Automotive Software
+Tech Lead and Manager, Automotive Software
 
-
+<div id="webaddress">
 stevenrossleigh@gmail.com | +49 176 305 00773 | Munich, Germany
-
+</div>
 
 ## Skills
+C++, git, docker, Python, Linux, Github, Rust, vim, svn, Autosar, cmake, HW debugging
 
-C++, git, Python, Linux, Github, Rust, vim, docker, svn, Autosar, HW debugging
+## Languages
+- Native English, B1 German
 
-
-## Work Experience
-`2016 - Present`
-__Tech Lead / Manager, Automotive Software__, Luxoft GmbH, Munich
+## Work History
+`2016-now`
+__Tech Lead and Manager, Automotive Software__, Luxoft GmbH, Munich
 - Lead of Vehicle State Management software for BMW 2021 service pack
-- Code in production and forecast for approx 10 million vehicles
-- Develop and conduct reviews for safety relevant C++ code conforming to ISO 26262
+- Code shipped with forecast of ~10 million vehicles
+- Develop and conduct reviews for safety relevant C++ code (ISO 26262)
 - Mentor many junior devs
 - Manage six devs
 
-`2014 - 2016`
-__Imagery Data Specialist__, Canatec, Calgary
-- Optimize geospatial data processing using CUDA
+`2014-2016`
+__Imagery Data Specialist__, Canatec Ltd, Calgary
+- Optimized geospatial data processing using CUDA
 - Developed and released ice chart analysis system in C#
 
-`2007 - 2013`
-__Various COOPs/Assistantships__
-- Internal website for worlds largest nuclear generating station
-- Published paper in computational neuroscience (see publication section)
-
+`2007-2013`
+__Many Internships and Assistantships__
+- Worked on intranet for world's largest nuclear generating station
+- Published paper in computational neuroscience journal: <a href="https://www.researchgate.net/publication/268879992_Modelling_the_differential_effects_of_prisms_on_perception_and_action_in_neglect">"Modelling the differential effects of prisms on perception and action in neglect."</a>
 
 ## Education
-
 `2011-2013`
-__Master of Applied Science, University of Waterloo__
-Specialization in computer vision
+__Master of Applied Science__, University of Waterloo
+- Specialized in computer vision
+- Published work in IEEE Geoscience Journal: <a href="https://ieeexplore.ieee.org/abstract/document/6675767">"Automated ice–water classification using dual polarization SAR satellite imagery."</a>
 
 `2006-2011`
-__Honours Bachelor of Applied Science, University of Waterloo__
-System Design Engineering
+__Honours Bachelor of Applied Science__, University of Waterloo
+- System Design Engineering
+- Final project: <a href="https://youtu.be/wVnyv7TFfoI">Tennis Robot </a>
 
-
-## Publications
-
-`2015`
-Leigh, Steven, James Danckert, and Chris Eliasmith. "Modelling the differential effects of prisms on perception and action in neglect." Experimental brain research 233.3 (2015): 751-766.
-
-`2013`
-Leigh, Steven, Zhijie Wang, and David A. Clausi. "Automated ice–water classification using dual polarization SAR satellite imagery." IEEE Transactions on Geoscience and Remote Sensing 52.9 (2013): 5529-5539.
-
+## Hobbies
+- Skiing, 3D printing, Deutsch lernen
 
 <!-- ### Footer
-
 Last updated: July 2022 -->
 
 

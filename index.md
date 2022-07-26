@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Steven Leigh's CV
 ---
 # Steven Leigh
-Physicist, Mathematician, Cambridge professor.
+Tech Lead, Automotive Software
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,18 +11,14 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Skills
 
-Standing on the shoulders of giants
+C++, git, Python, Linux, Github, Rust, vim, docker, svn, Autosar, HW debugging
 
-### Specialized in
+## Work Experience
+`2016 - Present`
+__Tech Lead, Automotive Software__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
@@ -65,10 +61,6 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation

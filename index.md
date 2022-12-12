@@ -3,7 +3,7 @@ layout: cv
 title: Steven Leigh
 ---
 # Steven Leigh
-Tech Lead and Manager, Automotive Software
+Tech Lead and Engineering Manager
 
 <div id="webaddress">
 stevenrossleigh@gmail.com | +49 176 305 00773 | Munich, Germany
@@ -17,12 +17,13 @@ C++, git, docker, Python, Linux, Github, Rust, vim, svn, Autosar, cmake, HW debu
 
 ## Work History
 `2016-now`
-__Tech Lead and Manager, Automotive Software__, Luxoft GmbH, Munich
+__Tech Lead and Engineering Manager__, Luxoft GmbH, Munich
 - Lead of Vehicle State Management software for BMW 2021 service pack
 - Code shipped with forecast of ~10 million vehicles
 - Develop and conduct reviews for safety relevant C++ code (ISO 26262)
 - Mentor many junior devs
 - Manage six devs
+- Grew from software dev in this project
 
 `2014-2016`
 __Imagery Data Specialist__, Canatec Ltd, Calgary
